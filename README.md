@@ -1,0 +1,3 @@
+# ANALISIS
+
+Archivo README para la semana TEC.# LABORATORIO_A01424709
